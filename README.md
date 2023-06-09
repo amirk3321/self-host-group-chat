@@ -60,4 +60,4 @@ font_awesome_flutter:- [Link:](https://pub.dev/packages/font_awesome_flutter)
     
 ### Created & Maintained By
 
-[@AmirKhan](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@AmirKhan](https://twitter.com/__Meer___)
+[@MA](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/channel/UCO6gMNHYhRqyzbskNh4gG_A) , Twitter  : [@MA](https://www.instagram.com/m.amir.k.official/)
